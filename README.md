@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carolina Cappato
+<h1 align="center">👋 ¡Hola! Soy Carolina Cappato</h1> 
 
 Estoy en búsqueda activa de nuevas oportunidades laborales, y siempre dispuesta a enfrentar desafíos que me permitan seguir creciendo y aportando mi experiencia en el mundo de los datos.
 
@@ -10,3 +10,7 @@ Soy una desarrolladora apasionada por los datos y la tecnología, con experienci
 
 Actualmente, estoy en proceso de completar mi Tecnicatura en Ciencia de Datos e IA, lo que me permite combinar mis habilidades técnicas con un enfoque analítico para desarrollar soluciones eficientes y escalables. Además, estoy expandiendo mis conocimientos con cursos en Excel y Data Analytics a través de LinkedIn Learning.
 
+<<<<<<< HEAD
+=======
+Estoy en búsqueda activa de nuevas oportunidades laborales, y siempre dispuesta a enfrentar desafíos que me permitan seguir creciendo y aportando mi experiencia en el mundo de los datos.
+>>>>>>> b84816feaa5480ae083eac6bb6c4c2988e4185f0
