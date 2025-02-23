@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Carolina Cappato</h1> 
+#👋 ¡Hola! Soy Carolina Cappato
 
 Estoy en búsqueda activa de nuevas oportunidades laborales, y siempre dispuesta a enfrentar desafíos que me permitan seguir creciendo y aportando mi experiencia en el mundo de los datos.
 
