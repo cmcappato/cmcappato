@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Carolina Cappato
+<h1 align="center">👋 ¡Hola! Soy Carolina Cappato</h1> 
 
 ## 🚀 Sobre Mí
 
