@@ -1,3 +1,5 @@
+![Banner](https://github.com/cmcappato/cmcappato/blob/main/Banner.jpg?raw=true)
+
 # 👋 Hi! I'm Carolina Cappato
 
 I am actively searching for new job opportunities, and always willing to face challenges that allow me to keep growing and providing my experience in the world of data.
@@ -62,7 +64,7 @@ Currently, I am in the process to finish my Data Science and AI Technician, whic
 
 You can connect with me through the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/cmcappato)
+- [LinkedIn](https://www.linkedin.com/in/cm-cappato/?locale=en_US)
 - [Kaggle](https://www.kaggle.com/cmcappato)
 - [Write me an e-mail](mailto:carocappato@gmail.com)
 - [Download my resume](https://drive.google.com/file/d/1rVX75ooqOJ3CGtOQzkvsK5UegoOn5dsZ/view?usp=drive_link)

@@ -1,3 +1,5 @@
+![Banner](https://github.com/cmcappato/cmcappato/blob/main/Banner.jpg?raw=true)
+
 # 👋 ¡Hola! Soy Carolina Cappato
 
 Estoy en búsqueda activa de nuevas oportunidades laborales, y siempre dispuesta a enfrentar desafíos que me permitan seguir creciendo y aportando mi experiencia en el mundo de los datos.
