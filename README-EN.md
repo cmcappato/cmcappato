@@ -65,6 +65,6 @@ Currently, I am in the process to finish my Data Science and AI Technician, whic
 You can connect with me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/cm-cappato/?locale=en_US)
-- [Kaggle](https://www.kaggle.com/cmcappato)
+- [Kaggle](https://www.kaggle.com/carolinacappato)
 - [Write me an e-mail](mailto:carocappato@gmail.com)
 - [Download my resume](https://drive.google.com/file/d/1rVX75ooqOJ3CGtOQzkvsK5UegoOn5dsZ/view?usp=drive_link)

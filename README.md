@@ -65,6 +65,6 @@ Actualmente, estoy en proceso de completar mi Tecnicatura en Ciencia de Datos e 
 Podés conectar conmigo a través de las siguientes plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/cmcappato)
-- [Kaggle](https://www.kaggle.com/cmcappato)
+- [Kaggle](https://www.kaggle.com/carolinacappato)
 - [Escribime un correo](mailto:carocappato@gmail.com)
 - [Descargá mi CV](https://drive.google.com/file/d/1LU5R76hQuDX265gENu0_ZyVCGfEWHdTA/view?usp=drive_link)
