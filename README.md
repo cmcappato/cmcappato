@@ -46,3 +46,14 @@ Actualmente, estoy en proceso de completar mi Tecnicatura en Ciencia de Datos e 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 Estadísticas
+<table align="center">
+  <tr>
+    <td><img height="150px" src="https://github-readme-stats.vercel.app/api?username=cmcappato&theme=tokyonight&show_icons=true&hide_border=true&locale=es&count_private=true" alt="cmcappatostats" /></td>
+    <td><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcappato&theme=tokyonight&show_icons=true&hide_border=true&locale=es&layout=compact" alt="cmcappatolang" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcappato&theme=tokyonight&locale=es&hide_border=true" alt="cmcappatostreak" /></td>
+  </tr>
+</table>
