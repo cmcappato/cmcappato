@@ -57,3 +57,12 @@ Actualmente, estoy en proceso de completar mi Tecnicatura en Ciencia de Datos e 
     <td align="center" colspan="2"><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=cmcappato&theme=tokyonight&locale=es&hide_border=true" alt="cmcappatostreak" /></td>
   </tr>
 </table>
+
+## 💼 Redes sociales y contacto
+
+Podés conectar conmigo a través de las siguientes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/cmcappato)
+- [Kaggle](https://www.kaggle.com/cmcappato)
+- [Escribime un correo](mailto:carocappato@gmail.com)
+- [Descargá mi CV](https://drive.google.com/file/d/1LU5R76hQuDX265gENu0_ZyVCGfEWHdTA/view?usp=drive_link)
